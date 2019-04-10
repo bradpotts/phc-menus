@@ -1,2 +1,2 @@
 //= link_directory ../javascripts/phcmenus .js
-//= link_directory ../stylesheets/phcmenus .css
+//= link_directory ../stylesheets/phcmenus .scss
